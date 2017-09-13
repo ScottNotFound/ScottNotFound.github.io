@@ -12,3 +12,7 @@ body {
   top: 50px;
   left: 50px;
 }
+
+a {
+  color: red;
+}
