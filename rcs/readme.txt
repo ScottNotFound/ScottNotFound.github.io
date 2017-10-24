@@ -1,1 +1,0 @@
-This directory is a clone of the repository RCS-website until an actual domain is chosen for the site.
